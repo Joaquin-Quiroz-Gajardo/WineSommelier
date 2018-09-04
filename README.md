@@ -16,3 +16,9 @@ The scripts in this folder take the raw data from the scraping codes and clean a
 
 ### DataAnalysis and Publish folders
 These two folders contain basically the same information (to some extent), but one was written in a text editor while the other in jupyter notebook. The files especially in the *Publish* folder are giving a detailed explanation of how can an algorithm make predictions on grape variety based on a description of a wine. They include visualization of the data and try to dig deep to understand the characteristic features of the grapes in the database. 
+
+
+Zsolt Diveki
+2018
+[My GitHub Page](https://diveki.github.io)
+[My GitHub](https://github.com/diveki)
